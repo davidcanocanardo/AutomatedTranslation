@@ -1,5 +1,5 @@
 #Aquesta carpeta alberga els codis utilitzats per a poder reproduir l'experiment.
-En aquest fitxer s'explica l'ordre d'utilització
+En aquest fitxer s'explica l'ordre d'utilització. Abans d'iniciar esborra els README.txt dels directoris: codis2 i codis_per_migrar
 
 #Treball previ
 1. get_codis.py
